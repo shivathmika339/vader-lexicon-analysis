@@ -15,5 +15,5 @@ if st.button('Analyze'):
   elif oput_dict['compound'] <= -0.05:
     st.write('*Negative* :angry:')
   else:
-    st.write('*Neutral* :unamused:')
+    st.write('*Neutral* :unamused:') 
  
